@@ -8,6 +8,8 @@ import shutil
 import openbabel
 import subprocess
 
+
+
 # Caminho para a pasta contendo os arquivos do Receptor
 caminho_da_receptors = "/home/osvaldinojunior/Documents/Osvaldino_PLIP_Filtro/recep/"
 
