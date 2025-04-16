@@ -1,0 +1,1 @@
+pymol -c script.pml
